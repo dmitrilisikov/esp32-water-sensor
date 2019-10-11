@@ -1,0 +1,1 @@
+## Run this code on an ESP32 with a water sensor connected to it to triger a zap every time water is detected
